@@ -1,0 +1,67 @@
+[
+    {
+        "date_joined": "2021-03-12 01:55:25.433135",
+        "email": "dennisivy@email.com",
+        "first_name": "",
+        "id": 1,
+        "is_active": 1,
+        "is_staff": 1,
+        "is_superuser": 1,
+        "last_login": "2021-06-09 22:55:46.856939",
+        "last_name": "",
+        "password": "pbkdf2_sha256$216000$HmNeIJ8bw1EA$9luaGs+k5Iy7/0EO8cxePCO55cObxGbg051VDQhFpbc=",
+        "username": "dennisivy"
+    },
+    {
+        "date_joined": "2021-03-12 02:57:19.146478",
+        "email": "",
+        "first_name": "",
+        "id": 2,
+        "is_active": 1,
+        "is_staff": 0,
+        "is_superuser": 0,
+        "last_login": "2021-03-12 03:03:40.902903",
+        "last_name": "",
+        "password": "pbkdf2_sha256$180000$o6XuaAaxALxY$k4RoyE5SOs2278BBIWbmp3AC4h0jfv6XvFc0kfh2xyg=",
+        "username": "john"
+    },
+    {
+        "date_joined": "2021-03-12 03:17:31.797114",
+        "email": "",
+        "first_name": "",
+        "id": 3,
+        "is_active": 1,
+        "is_staff": 0,
+        "is_superuser": 0,
+        "last_login": "2021-03-12 04:01:59.818051",
+        "last_name": "",
+        "password": "pbkdf2_sha256$180000$oI8Gm9rUDsJx$qngyQWsN2zsbuB8NhNDpDHTLVK1q2zzBWVJoDu/eJ6M=",
+        "username": "sulamita"
+    },
+    {
+        "date_joined": "2021-03-12 07:13:32.187032",
+        "email": "",
+        "first_name": "",
+        "id": 4,
+        "is_active": 1,
+        "is_staff": 0,
+        "is_superuser": 0,
+        "last_login": "2021-03-12 07:30:39.790414",
+        "last_name": "",
+        "password": "pbkdf2_sha256$180000$TdHB33l2L9vm$xGPUONqgnljNFSDjrQvBf8sdIRm2/tCLD3LKPX8kNqk=",
+        "username": "dennis"
+    },
+    {
+        "date_joined": "2023-10-11 13:40:12.347957",
+        "email": "",
+        "first_name": "",
+        "id": 5,
+        "is_active": 1,
+        "is_staff": 1,
+        "is_superuser": 1,
+        "last_login": "2023-10-11 14:24:10.028050",
+        "last_name": "",
+        "password": "pbkdf2_sha256$180000$Ss1PIkokzOhp$RO0vvVzKqJ4JNS4mKX5ZKX/O/L39KvXT3+EvJjIrCR0=",
+        "username": "suhas"
+    }
+]

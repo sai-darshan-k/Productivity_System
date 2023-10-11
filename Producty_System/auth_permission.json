@@ -1,0 +1,170 @@
+[
+    {
+        "codename": "add_logentry",
+        "content_type_id": 1,
+        "id": 1,
+        "name": "Can add log entry"
+    },
+    {
+        "codename": "change_logentry",
+        "content_type_id": 1,
+        "id": 2,
+        "name": "Can change log entry"
+    },
+    {
+        "codename": "delete_logentry",
+        "content_type_id": 1,
+        "id": 3,
+        "name": "Can delete log entry"
+    },
+    {
+        "codename": "view_logentry",
+        "content_type_id": 1,
+        "id": 4,
+        "name": "Can view log entry"
+    },
+    {
+        "codename": "add_permission",
+        "content_type_id": 2,
+        "id": 5,
+        "name": "Can add permission"
+    },
+    {
+        "codename": "change_permission",
+        "content_type_id": 2,
+        "id": 6,
+        "name": "Can change permission"
+    },
+    {
+        "codename": "delete_permission",
+        "content_type_id": 2,
+        "id": 7,
+        "name": "Can delete permission"
+    },
+    {
+        "codename": "view_permission",
+        "content_type_id": 2,
+        "id": 8,
+        "name": "Can view permission"
+    },
+    {
+        "codename": "add_group",
+        "content_type_id": 3,
+        "id": 9,
+        "name": "Can add group"
+    },
+    {
+        "codename": "change_group",
+        "content_type_id": 3,
+        "id": 10,
+        "name": "Can change group"
+    },
+    {
+        "codename": "delete_group",
+        "content_type_id": 3,
+        "id": 11,
+        "name": "Can delete group"
+    },
+    {
+        "codename": "view_group",
+        "content_type_id": 3,
+        "id": 12,
+        "name": "Can view group"
+    },
+    {
+        "codename": "add_user",
+        "content_type_id": 4,
+        "id": 13,
+        "name": "Can add user"
+    },
+    {
+        "codename": "change_user",
+        "content_type_id": 4,
+        "id": 14,
+        "name": "Can change user"
+    },
+    {
+        "codename": "delete_user",
+        "content_type_id": 4,
+        "id": 15,
+        "name": "Can delete user"
+    },
+    {
+        "codename": "view_user",
+        "content_type_id": 4,
+        "id": 16,
+        "name": "Can view user"
+    },
+    {
+        "codename": "add_contenttype",
+        "content_type_id": 5,
+        "id": 17,
+        "name": "Can add content type"
+    },
+    {
+        "codename": "change_contenttype",
+        "content_type_id": 5,
+        "id": 18,
+        "name": "Can change content type"
+    },
+    {
+        "codename": "delete_contenttype",
+        "content_type_id": 5,
+        "id": 19,
+        "name": "Can delete content type"
+    },
+    {
+        "codename": "view_contenttype",
+        "content_type_id": 5,
+        "id": 20,
+        "name": "Can view content type"
+    },
+    {
+        "codename": "add_session",
+        "content_type_id": 6,
+        "id": 21,
+        "name": "Can add session"
+    },
+    {
+        "codename": "change_session",
+        "content_type_id": 6,
+        "id": 22,
+        "name": "Can change session"
+    },
+    {
+        "codename": "delete_session",
+        "content_type_id": 6,
+        "id": 23,
+        "name": "Can delete session"
+    },
+    {
+        "codename": "view_session",
+        "content_type_id": 6,
+        "id": 24,
+        "name": "Can view session"
+    },
+    {
+        "codename": "add_task",
+        "content_type_id": 7,
+        "id": 25,
+        "name": "Can add task"
+    },
+    {
+        "codename": "change_task",
+        "content_type_id": 7,
+        "id": 26,
+        "name": "Can change task"
+    },
+    {
+        "codename": "delete_task",
+        "content_type_id": 7,
+        "id": 27,
+        "name": "Can delete task"
+    },
+    {
+        "codename": "view_task",
+        "content_type_id": 7,
+        "id": 28,
+        "name": "Can view task"
+    }
+]
