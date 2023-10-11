@@ -1,0 +1,37 @@
+[
+    {
+        "app_label": "admin",
+        "id": 1,
+        "model": "logentry"
+    },
+    {
+        "app_label": "auth",
+        "id": 2,
+        "model": "permission"
+    },
+    {
+        "app_label": "auth",
+        "id": 3,
+        "model": "group"
+    },
+    {
+        "app_label": "auth",
+        "id": 4,
+        "model": "user"
+    },
+    {
+        "app_label": "contenttypes",
+        "id": 5,
+        "model": "contenttype"
+    },
+    {
+        "app_label": "sessions",
+        "id": 6,
+        "model": "session"
+    },
+    {
+        "app_label": "base",
+        "id": 7,
+        "model": "task"
+    }
+]
